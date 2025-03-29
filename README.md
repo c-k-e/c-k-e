@@ -1,6 +1,7 @@
 Hello, I am Konstantin.
 
-# Education
+Education
+---
 <p align="left">
 2008-2014 KNRTU–KAI, Management of new technologies
 </p>
@@ -20,7 +21,8 @@ Work
 12/2016-now Factory, Lower-level manager
 </p>
 
-# OS
+OS
+---
 <p align="left">
 Kali, Linux, Windows
 </p>
@@ -29,12 +31,14 @@ Kali, Linux, Windows
 Metasploit, Wireshark, Burp Suite, Hashcat, FFUF, Nmap, SQLMap, Docker
 </p>
 
-# Language 
+Language 
+---
 <p align="left">
 Python
 </p>
 
-# Book
+Book
+---
 <p align="left">
 - Gus Khawaja "Kali Linux Penetration Testing Bible"
 </p>
@@ -42,7 +46,8 @@ Python
 - Natalia Olifer, Victor Olifer "Computer Networks: Principles, Technologies and Protocols for Network Design"
 </p>
 
-# Interests
+Interests
+---
 <p align="left">
 Pentest
 </p>
