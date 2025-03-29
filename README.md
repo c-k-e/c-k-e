@@ -3,7 +3,7 @@ Hello, I am Konstantin.
 Education
 ---
 <p align="left">
-2008-2014 KNRTU–KAI, Management of new technologies
+2008-2014 KNRTU–KAI, High technology management
 </p>
 <p align="left">
 02/2024-03/2025 Skillfactory, White Hat
