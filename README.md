@@ -8,7 +8,8 @@ Hello, I am Konstantin.
 02/2024-03/2025 Skillfactory, White Hat
 </p>
 
-# Work
+Work
+---
 <p align="left">
 06/2013 Cargo Company BUSINESSLINES, Call-center
 </p>
