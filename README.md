@@ -34,7 +34,7 @@ Metasploit, Wireshark, Burp Suite, Hashcat, FFUF, Nmap, SQLMap, Docker
 Language 
 ---
 <p align="left">
-Python
+Python, JavaScript
 </p>
 
 Book
