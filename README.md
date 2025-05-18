@@ -56,5 +56,5 @@ Red Team
 </p>
 ---
 <p align="left">
-![Cert](https://https://github.com/c-k-e/c-k-e/blob/main/stepik_cert_wh.jpg)
+![Cert](https://github.com/c-k-e/c-k-e/blob/main/stepik_cert_wh.jpg)
 </p>
