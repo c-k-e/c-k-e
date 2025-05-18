@@ -55,3 +55,4 @@ Pentest
 Red Team
 </p>
 ---
+![image](https://https://github.com/c-k-e/c-k-e/blob/main/stepik_cert_wh.jpg)
