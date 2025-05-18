@@ -54,6 +54,8 @@ Pentest
 <p align="left">
 Red Team
 </p>
+
+Certificate
 ---
 
 ![Cert](https://github.com/c-k-e/c-k-e/blob/main/stepik_cert_wh.jpg)
